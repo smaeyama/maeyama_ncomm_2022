@@ -1,5 +1,6 @@
 # maeyama_ncomm_2022
-Data depicted in figures of S. Maeyama, et al. (2022)
+Data depicted in figures of S. Maeyama, et al. (2022)  
+[![DOI](https://zenodo.org/badge/491382362.svg)](https://zenodo.org/badge/latestdoi/491382362)
 
 - fig1/ : Linear dispersion relation
 - fig2/ : Effects of electron-scale turbulence on resonant particles

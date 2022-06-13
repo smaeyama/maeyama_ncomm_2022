@@ -1,5 +1,5 @@
 # maeyama_ncomm_2022
-Data depicted in figures of S. Maeyama, et al. (2022)  
+Data depicted in figures of [S. Maeyama, et al., Nature Communications 13, 3166 (2022). DOI:10.1038/s41467-022-30852-0](https://doi.org/10.1038/s41467-022-30852-0)  
 [![DOI](https://zenodo.org/badge/491382362.svg)](https://zenodo.org/badge/latestdoi/491382362)
 
 - fig1/ : Linear dispersion relation
